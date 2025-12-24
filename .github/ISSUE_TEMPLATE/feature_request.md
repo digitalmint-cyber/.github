@@ -4,7 +4,7 @@ about: Suggest an idea for this project
 title: ''
 labels: enhancement
 assignees: smithcoin
-
+type: Task
 ---
 
 **Background for the request? Please describe the business care or user story.**
